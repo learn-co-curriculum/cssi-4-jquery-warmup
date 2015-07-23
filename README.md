@@ -82,6 +82,7 @@ Open the contents of ```cookies/cookies.html``` in Chrome. You should see someth
 ![cookie monster lab](http://i.imgur.com/NMHh8mCl.jpg "Cookie Monster Lab")
 
 Modify ```cookies-script.js``` and ```cookies.html``` to accomplish the following:
+
 1. Log a message "Baking a cookie" to the console when the "BAKE a cookie" button is clicked.
 2. Implement "BAKE a cookie": Insert an image with source cookie.png into the div with id="plate" when the "BAKE a cookie" button is clicked. You should be able to add multiple cookies into the div.
 3. Implement "EAT ALL the cookies": Remove all the cookies from the pink plate when "EAT ALL the cookies" button is clicked.
@@ -118,6 +119,3 @@ Answer the following questions:
 2. Modifying only ```wontwork-script.js```, how do you fix this bug?
 
 The HTML file and JavaScript stub file are available in this git repository in the directory ```wontwork```.
-
-
-
