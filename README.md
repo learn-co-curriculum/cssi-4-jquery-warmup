@@ -1,7 +1,7 @@
 # JQuery Day 4 Warm-up!
 
-
 ## Instructions:
+Fork and clone this lab, then complete the drills below.
 
 ### 1. Selector Drills
 
