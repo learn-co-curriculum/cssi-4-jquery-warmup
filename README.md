@@ -103,6 +103,7 @@ magicWand();
 ```
 
 Answer the following questions:
+
 1. When you load ```bug.html```, what appears in the ```h1```: "Sunny!" or "Rainy :("? Why?
 2. Modifying only ```bug-script.js```, how do you fix this bug?
 
