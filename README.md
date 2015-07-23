@@ -77,15 +77,25 @@ Write JavaScript to do the following:
 
 The HTML file and JavaScript stub file are available in this git repository in the directory ```animals```. Fork and clone this repository to access the files and put your JavaScript in ```animals-script.js``` to test your answers.
 
-### 3. An Annoying JS Bug
+### 3. Event Handlers
+Open the contents of ```cookies/cookies.html``` in Chrome. You should see something like:
+![cookie monster lab](http://i.imgur.com/NMHh8mCl.jpg "Cookie Monster Lab")
 
-Given the following ```bug.html``` page:
+Modify ```cookies-script.js``` and ```cookies.html``` to accomplish the following:
+1. Log a message "Baking a cookie" to the console when the "BAKE a cookie" button is clicked.
+2. Implement "BAKE a cookie": Insert an image with source cookie.png into the div with id="plate" when the "BAKE a cookie" button is clicked. You should be able to add multiple cookies into the div.
+3. Implement "EAT ALL the cookies": Remove all the cookies from the pink plate when "EAT ALL the cookies" button is clicked.
+4. Implement "EAT a cookie": Remove a single cookie from the pink plate when the  "EAT a cookie" button is clicked.
+
+### 5. An Annoying JS Bug
+
+Given the following ```wontwork.html``` page:
 ```html
 <!DOCTYPE html>
 <html>
   <head>
     <script src="https://code.jquery.com/jquery-git.js"></script>
-    <script src="bug-script.js"></script>
+    <script src="wontwork-script.js"></script>
     <title>Weather Report</title>
   </head>
   <body>
@@ -94,7 +104,7 @@ Given the following ```bug.html``` page:
 </html>
 ```
 
-And the following ```bug-script.js``` file:
+And the following ```wontwork-script.js``` file:
 ```javascript
 function magicWand() {
   $('#weather').text('Sunny!');
@@ -104,9 +114,10 @@ magicWand();
 
 Answer the following questions:
 
-1. When you load ```bug.html```, what appears in the ```h1```: "Sunny!" or "Rainy :("? Why?
-2. Modifying only ```bug-script.js```, how do you fix this bug?
+1. When you load ```wontwork.html```, what appears in the ```h1```: "Sunny!" or "Rainy :("? Why?
+2. Modifying only ```wontwork-script.js```, how do you fix this bug?
 
-The HTML file and JavaScript stub file are available in this git repository in the directory ```bug```.
+The HTML file and JavaScript stub file are available in this git repository in the directory ```wontwork```.
+
 
 
