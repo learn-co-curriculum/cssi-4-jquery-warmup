@@ -77,7 +77,7 @@ Write JavaScript to do the following:
 
 The HTML file and JavaScript stub file are available in this git repository in the directory ```animals```. Fork and clone this repository to access the files and put your JavaScript in ```animals-script.js``` to test your answers.
 
-### 3. Find the bug
+### 3. An Annoying JS Bug
 
 Given the following ```bug.html``` page:
 ```html
