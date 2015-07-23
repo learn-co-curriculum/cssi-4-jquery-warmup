@@ -75,7 +75,7 @@ Write JavaScript to do the following:
 2. Change the text content of the ```div``` to be "bear" instead of "bunny"
 3. Change the content of the ```div``` to show this picture of a bear instead of text: http://i.imgur.com/SHxgKJv.png
 
-The HTML file and JavaScript stub file are available in this git repository in the directory ```animals```. Fork and clone this repository to access the files and put your JavaScript in ```animals-script.js``` to test your answers.
+The HTML file and JavaScript stub file are available in this git repository in the directory ```animals```. Put your JavaScript in ```animals-script.js``` and load ```animals.html``` to test your answers.
 
 ### 3. Event Handlers
 Open the contents of ```cookies/cookies.html``` in Chrome. You should see something like:
