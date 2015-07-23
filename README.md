@@ -104,7 +104,7 @@ Modify ```todo-script.js``` and ```todo.html``` to accomplish the following:
 2. Implement "Add": Insert the contents of the text input at the end of the ol list when the "Add" button is clicked. Clear the contents of the text input when this happens.
 3. Implement "Submit on enter": Pressing enter while focused on the text  box should trigger the same behavior as clicking the "Add" button.
 4. **EXTRA CREDIT** *Warning: These are both quite tricky due to some jQuery quirks. Only proceed if you're VERY comfortable with everything we've done so far - and comfortable using Google for help!* 
-  *  Implement "Cross off": Clicking each list item should cross the item off the list by making it appear with a strike through it.
+  *  Implement "Cross off": Clicking each list item should cross the item off the list by making it appear with a ~~strike~~ through it.
   *  Implement "Delete": Add a "Delete" button next to every item of the list. Clicking this button should remove the item from the list.
 
 ### 6. An Annoying JS Bug
