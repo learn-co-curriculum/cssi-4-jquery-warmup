@@ -109,4 +109,3 @@ Answer the following questions:
 The HTML file and JavaScript stub file are available in this git repository in the directory ```bug```.
 
 
-
