@@ -16,8 +16,10 @@ Given the following HTML page:
   <body>
     <h1>Fruits</h1>    
     <h2 class="div">Orange</h2>
-    <p id="h2">Banana</p>
-    <div>Cherry</div>
+    <div>
+      <p>Cherry</p>
+      <p id="h2">Banana</p>
+    </div>
   </body>
 </html>
 ```
@@ -36,13 +38,16 @@ $('#h2').text();
 ```
 
 ```javascript
-$('div').text();
-```
-
-```javascript
 $('.div').text();
 ```
 
 ```javascript
 $('#div').text();
 ```
+
+```javascript
+$(div).text();
+```
+
+Make your guesses before running the code. You can check your answers by opening http://jsbin.com and copying the HTML into the HTML tab and the jQuery commands into the console tab.
+
