@@ -58,7 +58,7 @@ $(document).ready(function() {
     deleteBtn.addEventListener('click', function() {
       // Yup, we can use item here even though we declare it further down
       // in the function. That's because JavaScript has something called
-      // "function-level" scope.
+      // "function-level" scope (vs block-level scope that e.g. Java has).
       $(item).remove();
     });
 
