@@ -138,3 +138,5 @@ Answer the following questions:
 2. Modifying only ```wontwork-script.js```, how do you fix this bug?
 
 The HTML file and JavaScript stub file are available in this git repository in the directory ```wontwork```.
+
+<a href='https://learn.co/lessons/cssi-4-jquery-warmup' data-visibility='hidden'>View this lesson on Learn.co</a>
